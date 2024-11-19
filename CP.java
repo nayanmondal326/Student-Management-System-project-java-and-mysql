@@ -21,7 +21,7 @@ public class CP
            
            
             String username = "root";
-            String pwd = "Nayan@2002";
+            String pwd = "MySQL password";
             String url = "jdbc:mysql://localhost:3306/studentManagement";
             con = DriverManager.getConnection(url, username, pwd);
         
