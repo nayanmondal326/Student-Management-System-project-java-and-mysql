@@ -8,7 +8,7 @@ User Interface Class (optional): If using a graphical interface, classes to mana
 ## MySQL Database:
 Student Table: The primary table to store all student data, with columns for each attribute. 
 Course Table (optional): To manage course information if needed. 
-# Core functionalities:
+## Core functionalities:
 ## CRUD Operations:
 ### Create: 
 Add new student records to the database.
