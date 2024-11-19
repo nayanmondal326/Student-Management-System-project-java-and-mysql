@@ -1,4 +1,4 @@
-# Welcome to GitHub Desktop!
+# Welcome to my Student Management System
 
 a software application built using the Java programming language to manage student data, where the data is stored and accessed through a MySQL database, allowing users to perform operations like adding new students, viewing existing student details, updating information, and deleting records, all within a user-friendly interface. 
 ## Key components of a student management system in Java and MySQL:Java Classes:
