@@ -10,7 +10,7 @@ Student Table: The primary table to store all student data, with columns for eac
 Course Table (optional): To manage course information if needed. 
 # Core functionalities:
 # CRUD Operations:
-Create: 
+## Create: 
 Add new student records to the database.
 Read: 
 Retrieve and display student details.
