@@ -9,12 +9,16 @@ User Interface Class (optional): If using a graphical interface, classes to mana
 Student Table: The primary table to store all student data, with columns for each attribute. 
 Course Table (optional): To manage course information if needed. 
 # Core functionalities:
-CRUD Operations:
-Create: Add new student records to the database.
-Read: Retrieve and display student details.
-Update: Modify existing student information.
-Delete: Remove student records from the database. 
-Potential features to include:
+# CRUD Operations:
+Create: 
+Add new student records to the database.
+Read: 
+Retrieve and display student details.
+Update:
+Modify existing student information.
+Delete: 
+Remove student records from the database. 
+# Potential features to include:
 Search Functionality: Filter students based on specific criteria like name, ID, course. 
 Reporting: Generate reports on student performance, class attendance, etc. 
 Course Management: Allow assigning courses to students, viewing course schedules. 
